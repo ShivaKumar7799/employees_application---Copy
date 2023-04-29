@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Node.js related files
+node_modules/
+npm-debug.log*
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Distribution files
+dist/
+build/
+out/
+*.min.js
+
+# Cache directories
+.cache/
+.npm/
+.pnp/
+.yarn/
